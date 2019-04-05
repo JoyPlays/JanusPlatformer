@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 477b775676cd2814a9bf3958dc47de2f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box
+    100002: //RootNode
+    100004: BoxBroken._Part10
+    100006: BoxBroken._Part11
+    100008: BoxBroken._Part12
+    100010: BoxBroken._Part13
+    100012: BoxBroken_Part1
+    100014: BoxBroken_Part14
+    100016: BoxBroken_Part2
+    100018: BoxBroken_Part3
+    100020: BoxBroken_Part4
+    100022: BoxBroken_Part5
+    100024: BoxBroken_Part6
+    100026: BoxBroken_Part7
+    100028: BoxBroken_Part8
+    100030: BoxBroken_Part9
+    400000: Box
+    400002: //RootNode
+    400004: BoxBroken._Part10
+    400006: BoxBroken._Part11
+    400008: BoxBroken._Part12
+    400010: BoxBroken._Part13
+    400012: BoxBroken_Part1
+    400014: BoxBroken_Part14
+    400016: BoxBroken_Part2
+    400018: BoxBroken_Part3
+    400020: BoxBroken_Part4
+    400022: BoxBroken_Part5
+    400024: BoxBroken_Part6
+    400026: BoxBroken_Part7
+    400028: BoxBroken_Part8
+    400030: BoxBroken_Part9
+    2100000: No Name
+    2300000: Box
+    2300002: BoxBroken._Part10
+    2300004: BoxBroken._Part11
+    2300006: BoxBroken._Part12
+    2300008: BoxBroken._Part13
+    2300010: BoxBroken_Part1
+    2300012: BoxBroken_Part14
+    2300014: BoxBroken_Part2
+    2300016: BoxBroken_Part3
+    2300018: BoxBroken_Part4
+    2300020: BoxBroken_Part5
+    2300022: BoxBroken_Part6
+    2300024: BoxBroken_Part7
+    2300026: BoxBroken_Part8
+    2300028: BoxBroken_Part9
+    3300000: Box
+    3300002: BoxBroken._Part10
+    3300004: BoxBroken._Part11
+    3300006: BoxBroken._Part12
+    3300008: BoxBroken._Part13
+    3300010: BoxBroken_Part1
+    3300012: BoxBroken_Part14
+    3300014: BoxBroken_Part2
+    3300016: BoxBroken_Part3
+    3300018: BoxBroken_Part4
+    3300020: BoxBroken_Part5
+    3300022: BoxBroken_Part6
+    3300024: BoxBroken_Part7
+    3300026: BoxBroken_Part8
+    3300028: BoxBroken_Part9
+    4300000: BoxBroken._Part13
+    4300002: BoxBroken._Part12
+    4300004: BoxBroken._Part11
+    4300006: BoxBroken._Part10
+    4300008: BoxBroken_Part9
+    4300010: BoxBroken_Part8
+    4300012: BoxBroken_Part7
+    4300014: BoxBroken_Part6
+    4300016: BoxBroken_Part5
+    4300018: BoxBroken_Part4
+    4300020: BoxBroken_Part3
+    4300022: BoxBroken_Part2
+    4300024: BoxBroken_Part1
+    4300026: Box
+    4300028: BoxBroken_Part14
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
