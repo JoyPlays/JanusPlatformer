@@ -50,7 +50,7 @@ public class MovingPlatform : MonoBehaviour
 		}
 		else
 		{
-			transform.position = Vector3.Lerp(startingPosition, destination, time);
+			transform.localPosition = Vector3.Lerp(startingPosition, destination, time);
 		}
 	}
 

@@ -7,6 +7,7 @@ public class PlayerController : MonoBehaviour
 
 	public Animator playerAnimator;
 	public GameObject weapon;
+	public GameObject particleTrail;
 	private bool slash = false;
 
 	public float walkingSpeed = 3f;
@@ -93,9 +94,11 @@ public class PlayerController : MonoBehaviour
 
 	IEnumerator SetWeaponCollider()
 	{
+		particleTrail.SetActive(true);
 		weapon.GetComponent<MeshCollider>().enabled = true;
 		playerAnimator.SetTrigger("Slash");
 		yield return new WaitForSeconds(0.5f);
+		particleTrail.SetActive(false);
 		weapon.GetComponent<MeshCollider>().enabled = false;
 		yield return new WaitForSeconds(0.5f);
 		slash = false;
